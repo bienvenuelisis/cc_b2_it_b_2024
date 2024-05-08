@@ -1,0 +1,13 @@
+teachers_view
+
+Vous avez à votre disposition cette ressource API représentant une liste d'enseignants : https://freetestapi.com/api/v1/teachers.
+
+A partir de vos connaissances en Flutter, créer une application Flutter qui: 
+
+1. Effectue une requête sur cette ressource.
+
+2. Récupére la liste de professeurs, le transforme en liste d'objets de votre classe Teacher, classe de modèle de données représentant un element unique de la liste d'éléments retournés par cette ressource.
+
+3. Affiche ensuite une liste de composants qui visuellement présente les informations de chacun des professeurs de cette ressource.
+
+4. Un Composant de chargement est affichée lors de la requête pour indiquer visuellement à l'utilisateur qu'une opération est en cours.
